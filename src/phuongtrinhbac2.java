@@ -4,7 +4,7 @@ public class phuongtrinhbac2 {
     public static void main(String[] args) {
         double a, b ,c, denta,x1,x2; 
         Scanner sc= new Scanner( System.in);
-        do{System.out.print(" nhap he so a khac khong a=: ");
+        do{System.out.print(" nhap he so a khac khong a=0: ");
         a=sc.nextDouble();}while(a==0);
         System.out.print(" nhap he so b: ");
         b=sc.nextDouble();
